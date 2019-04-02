@@ -1,0 +1,154 @@
+{
+  "slotList": [
+    {
+      "id": 1,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 2,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 3,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 4,
+      "vehicleNum": "MH-13-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 5,
+      "vehicleNum": "MH-14-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 6,
+      "vehicleNum": "MH-10-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 7,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 8,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 9,
+      "vehicleNum": "MH-13-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 10,
+      "vehicleNum": "MH-14-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 11,
+      "vehicleNum": "MH-10-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 12,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 13,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 14,
+      "vehicleNum": "MH-13-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 15,
+      "vehicleNum": "MH-14-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 16,
+      "vehicleNum": "MH-10-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 17,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 18,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 19,
+      "vehicleNum": "MH-13-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 20,
+      "vehicleNum": "MH-14-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 21,
+      "vehicleNum": "MH-10-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 22,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 23,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 24,
+      "vehicleNum": "MH-13-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 25,
+      "vehicleNum": "MH-14-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 26,
+      "vehicleNum": "MH-10-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 27,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 28,
+      "vehicleNum": "",
+      "isFree": true
+    },
+    {
+      "id": 29,
+      "vehicleNum": "MH-13-AB-0007",
+      "isFree": false
+    },
+    {
+      "id": 30,
+      "vehicleNum": "MH-14-AB-0007",
+      "isFree": false
+    }
+  ]
+}
